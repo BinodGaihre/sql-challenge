@@ -1,7 +1,7 @@
 # sql-challenge
 # Overview 
 - This challenge or project performs data modelling, engineering and the analysis of the datas included in the folder "data" (datas of the emoployees in a company)
-- The folder employee_data_sql includes the following files
+- The folder employee_data_sql includes the following files.
     1. table_schemas.sql file that is the table schemata for the analysis.
     2. employee_queires.sql file that has the queiries for the data analysis.
     3. erd.png the image file of my ERD.
@@ -11,7 +11,7 @@
 - Open the query tool into the database created.
 - Upload the table_schemas.sql and execute it.
 - Import the datas into the tables created in the order of the tables created in the following order.
-** do follow this order otherwise might create errors **
+- ** do follow this order otherwise might create errors **
     1. departments
     2. titles
     3. employees 
